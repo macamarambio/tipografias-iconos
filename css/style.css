@@ -34,24 +34,9 @@ div:hover {
 	border: 5px solid #FBFBFB;
 	cursor: pointer;
 }
-.icon-paperplane:hover{
+span:hover{
 	color: #A8BBDD;
 	font-size: 80px;
-}
-.icon-diamond:hover {
-	color: #A8BBDD;
-	font-size: 80px;	
-}
-.icon-heart:hover {
-	color: #A8BBDD;
-	font-size: 80px;
-}
-.icon-cup:hover {
-	color: #A8BBDD;
-	font-size: 80px;	
-}
-.icon-food:hover {
-	color: #A8BBDD;
-	font-size: 80px;	
+	display: block;
 }
 
