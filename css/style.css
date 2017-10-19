@@ -5,6 +5,7 @@ div {
 	background-color: #FBFBFB;
 	margin-left: 5px;
 	float: left;
+	transition: width 2s;
 }
 p {
 	color: #9F9F9F;
@@ -33,10 +34,10 @@ div:hover {
 	background-color: #FFF;
 	border: 5px solid #FBFBFB;
 	cursor: pointer;
+	width: 300px;
 }
-span:hover{
+div:hover span{
 	color: #A8BBDD;
 	font-size: 80px;
-	display: block;
 }
 
